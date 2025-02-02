@@ -44,4 +44,7 @@ This network design aims to provide a robust and secure communication infrastruc
 * Inter-VLAN Routing
 * ACL (Access Control List) Configuration
 
-## Project Structure (Optional - If you have specific files/folders)
+## Project Structure
+
+![proj13](https://github.com/user-attachments/assets/a1f9e304-b61c-4379-b191-6247006125bd)
+
